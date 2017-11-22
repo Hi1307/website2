@@ -1,5 +1,0 @@
-#Google Search Engine Robot
-User-agent: Googlebot
-
-Disallow: /welcome/*
-Disallow: /welcome/
